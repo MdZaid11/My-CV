@@ -1,0 +1,30 @@
+body {
+  background-color: #DEF5E5;
+}
+hr {
+  /* background-color: white; */
+  background-color:#DEF5E5 ;
+  border-style: none;
+  height:2px;
+  border-bottom: dotted;
+  border-bottom-color: #8D9EFF;
+  border-bottom-width: 5px;
+  width:7%;
+}
+.heading:hover {
+  font-size: 30px;
+}
+h1 {
+  color: #395B64;
+  width:125px;
+  background-color: white;
+  border-radius: 23px;
+
+  }
+h3{
+  color:#395B64;
+  width:150px;
+  background-color: white;
+  border-radius:23px;
+
+}
